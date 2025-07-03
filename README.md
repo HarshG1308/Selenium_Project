@@ -20,7 +20,7 @@ This project scrapes product listings from Amazon India using Selenium, saves ea
 ## Setup
 1. **Clone the repository** (if using git):
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/HarshG1308/Selenium_Project
    cd Selenium_Project
    ```
 2. **Install dependencies:**
